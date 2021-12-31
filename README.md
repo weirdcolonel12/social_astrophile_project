@@ -46,7 +46,7 @@ Django provides a view component which reads the input from user interface and m
 ## Usage example
 Use this site to post your opinion in groups to share it with other people having similar interest.
 
-[Home Page: (https://user-images.githubusercontent.com/54473059/147820606-4a17c26a-4028-449c-9b5a-b10da9cb8838.png)
+Home Page: (https://user-images.githubusercontent.com/54473059/147820606-4a17c26a-4028-449c-9b5a-b10da9cb8838.png)
 
 ## Running the tests
 No Testing is done as of now.
