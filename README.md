@@ -29,9 +29,9 @@ A step by step list of commands / guide that informs how to install an instance 
 ## Screenshots
 Use this space to give a little demo of your project. Attach important screenshots if applicable. This section is optional and might not be applicable in some cases.
 
-![Home Page]![Screenshot (172)](https://user-images.githubusercontent.com/54473059/147819387-fe5c3c49-ccd8-415e-a11b-2ea1a44b84df.png)
+Home Page: (https://user-images.githubusercontent.com/54473059/147819387-fe5c3c49-ccd8-415e-a11b-2ea1a44b84df.png)
 
-![Groups Page]![Screenshot (178)](https://user-images.githubusercontent.com/54473059/147819452-167f46e6-fbc3-4a83-ad0f-e58819aae019.png)
+Groups Page: (https://user-images.githubusercontent.com/54473059/147819452-167f46e6-fbc3-4a83-ad0f-e58819aae019.png)
 
 ## Features
 My objective for this project is to create a social media niche website for astrophiles. So that, the people who are interested in space can network and share their opinion and discuss on their favourite topics related to space. It will include the following four major Features: 
@@ -46,7 +46,7 @@ Django provides a view component which reads the input from user interface and m
 ## Usage example
 Use this site to post your opinion in groups to share it with other people having similar interest.
 
-![Home Page]![Screenshot (172)]![Screenshot (169)](https://user-images.githubusercontent.com/54473059/147820606-4a17c26a-4028-449c-9b5a-b10da9cb8838.png)
+[Home Page: (https://user-images.githubusercontent.com/54473059/147820606-4a17c26a-4028-449c-9b5a-b10da9cb8838.png)
 
 ## Running the tests
 No Testing is done as of now.
